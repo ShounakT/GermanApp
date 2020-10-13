@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">German App</string>
+    <string-array name="main_list">
+        <item>Numbers</item>
+        <item>Words</item>
+        <item>Phrases</item>
+        <item>Family</item>
+    </string-array>
+</resources>
